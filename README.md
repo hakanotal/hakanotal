@@ -4,8 +4,8 @@ Hi! 👋🏻 I'm Hakan Tugrul Otal
 Researcher & Developer
 -----------------
 
-🖥️ - Visit my [website](https://hakanotal.github.io)
-✉️ - Send an email [hakan.otal@outlook.com](mailto:hakan.otal@outlook.com)
+🖥️ - Visit my [website](https://hakanotal.github.io)   
+✉️ - Send an email [hakan.otal@outlook.com](mailto:hakan.otal@outlook.com)    
 
 ### Skills
 
