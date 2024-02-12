@@ -50,16 +50,3 @@ Researcher & Developer
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
 
 </p>
-
-
-### Socials
-
-<p align="left"> 
-<a href="https://scholar.google.com/citations?user=aomsxFAAAAAJ" target="_blank" rel="noreferrer"><img src="public/scholar.png" width="32" height="32" /></a>
-<a href="https://www.github.com/hakanotal" target="_blank" rel="noreferrer"><img src="public/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/hakan-tugrul-otal/" target="_blank" rel="noreferrer"><img src="public/linkedin.svg" width="32" height="32" /></a> 
-<a href="http://www.medium.com/@hakan.otal" target="_blank" rel="noreferrer"><img src="public/medium.svg" width="32" height="32" /></a>
-<a href="https://huggingface.co/hotal" target="_blank" rel="noreferrer"><img src="public/hf.svg" width="34" height="34" /></a>
-<a href="https://www.hackerrank.com/hakanotal" target="_blank" rel="noreferrer"><img src="public/hackerrank.svg" width="36" height="36" /></a>
-</p>
-  
