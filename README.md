@@ -1,12 +1,53 @@
-Hi! 👋🏻 I'm Hakan T. Otal
+Hi! 👋🏻 I'm Hakan Tugrul Otal
 =========================================================================================================================================
 
-Research Assistant | PhD Student | AI/Software Engineer
+Researcher | PhD Student
 -----------------
 
 🖥️ - [My website](https://hakanotal.github.io)   
 ✉️ - [hakan.otal@outlook.com](mailto:hakan.otal@outlook.com)    
-  <!-- 
+
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178C6)
+
+### Technologies
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=009688)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS&logoColor=E0234E)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS&logoColor=06B6D4)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=white)
+
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)
+![Neo4j](https://img.shields.io/badge/-Neo4j%20RDS-000?&logo=Neo4j)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase&logoColor=3ECF8E)
+
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch&logoColor=005571)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoColor=DC382D)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=D24939)
+
+
+<!-- 
+<a href="https://gitfut.com/hakanotal"><img src="https://gitfut.com/hakanotal.png" width="200"></a>
+-->
+
+
+<!-- 
 ### Skills
 
 <p align="left">
