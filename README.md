@@ -46,6 +46,9 @@ Researcher | PhD Student
 <a href="https://gitfut.com/hakanotal"><img src="https://gitfut.com/hakanotal.png" width="200"></a>
 -->
 
+---
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/hakantotal)
 
 <!-- 
 ### Skills
